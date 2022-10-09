@@ -1,1 +1,1 @@
- it just prints the core operating system name.
+echo  it just prints the core operating system name > 0-hell
